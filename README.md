@@ -12,7 +12,7 @@
 <img src="screen_shots/3.png" width="350">
 
 ## 3) Dog Breed
-<img src="screen_shots/3.png" width="350">
+<img src="screen_shots/4.png" width="350">
 
 ## 3) Dog Prediction
-<img src="screen_shots/3.png" width="350">
+<img src="screen_shots/5.png" width="350">
