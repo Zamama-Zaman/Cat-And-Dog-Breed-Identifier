@@ -1,4 +1,4 @@
-# cat and dog breed identifier
+# Cat And Dog Breed Identifier
 
 # Screen Shots
 
